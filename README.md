@@ -18,5 +18,5 @@ Welcome to my profile! 👐
 ## ☏ <b>Contact me</b>
 - <b>LinkedIn</b>: [Zhang Fang](https://linkedin.com/in/zhang-fang-873243167/)
 - <b>Gmail</b>: zangfang.111@gmail.com
-- <b>Skype</b>: <a href='skype:live:zhangfang606_1?chat'>Start Chat: zhangfang606_1</a>
+- <b>Skype</b>: <a href='skype:zhangfang606_1?chat' target='_blank'>Start Chat: zhangfang606_1</a>
 - <b>Discord</b>: <a href='http://discord.gg/690450605218725889' target='_blank'>Zhang#3641</a>
