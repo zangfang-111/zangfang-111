@@ -10,7 +10,7 @@ Welcome to my profile! 👐
 - 🏅 <b>Languages</b>: JavaScript, TypeScript, Python, HTML, PHP.
 - 🔸 <b>Frontend</b>: React, Next, Vue, Nuxt, Angular, SASS/SCSS, BootStrap, Tailwind CSS, AntD, Material-UI.
 - 🔸 <b>Backend</b>: Node.js/Express.js, PHP/Laravel.
-- 🔸 <b>Mobile</b>: React Native.
+- 🔸 <b>Mobile</b>: React Native. iOS, Android.
 - 🛢 <b>Database</b>: MongoDB, MySQL, PostgreSQL, SQLite, FireBase.
 - 🔸 <b>Others</b>: Google, AWS, Git/Github/Gitlab/Bitbucket, Heroku, Vecel.
 - 💰 <b>Blockchain</b>: Smart Contract(Solidty), Web3.js, Ethereum, Algorand.
